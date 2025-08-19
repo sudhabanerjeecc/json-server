@@ -1,0 +1,39 @@
+{
+  "navigationItems": [
+    { "label": "Player Profiles", "href": "/player-profiles" },
+    { "label": "Coaching Staff", "href": "/coaching-staff" },
+    { "label": "Schedule", "href": "/schedule" },
+    { "label": "Need Help?", "href": "/help" }
+  ],
+  "promotionalCardsData": [
+    {
+      "id": 1,
+      "title": "PLAYER PROFILES",
+      "description": "View prospect information",
+      "imageSrc": "/assets/images/players-profile.jpg",
+      "imageAlt": "Player profile",
+      "url": "/player-profiles"
+    },
+    {
+      "id": 2,
+      "title": "COACHING STAFF",
+      "description": "View our coaches",
+      "imageSrc": "/assets/images/coaching-staff.jpg",
+      "imageAlt": "Coach profile",
+      "url": "/coaching-staff"
+    },
+    {
+      "id": 3,
+      "title": "CONTACT US",
+      "description": "Reach out to us for enquiries",
+      "imageSrc": "/assets/images/contact-us.jpg",
+      "imageAlt": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "footerLinks": [
+    { "label": "Customer Support", "href": "/support" },
+    { "label": "Terms & Conditions", "href": "/terms" },
+    { "label": "Privacy Policy", "href": "/privacy" }
+  ]
+}
