@@ -51,13 +51,16 @@
     "state": "USA",
     "zipCode": "75116",
     "physicalAttributes": {
-      "height": "6'0\"",
-      "weight": "205 lbs",
+      "height": { 
+        "feet": 6, 
+        "inches": 0 
+      },
+      "weight": 205,
       "wingspan": "75 inches (6'3”)",
       "handSize": "9.25 inches"
     },
     "athleticTestingResults": {
-      "fortyYardDash": "4.9 seconds",
+      "dashTime": 4.9,
       "shuttleRun": "4.15 seconds",
       "lDrill": "6.98 seconds",
       "broadJump": "9'11”",
@@ -113,13 +116,16 @@
     "state": "USA",
     "zipCode": "93720",
     "physicalAttributes": {
-      "height": "6'2\"",
-      "weight": "210 lbs",
+      "height": { 
+        "feet": 6, 
+        "inches": 2 
+      },
+      "weight": 205,
       "wingspan": "76 inches",
       "handSize": "9.5 inches"
     },
     "athleticTestingResults": {
-      "fortyYardDash": "4.7 seconds",
+      "dashTime": 4.8,
       "shuttleRun": "4.2 seconds",
       "lDrill": "7.1 seconds",
       "broadJump": "10'0”"
@@ -171,13 +177,16 @@
     "state": "USA",
     "zipCode": "73301",
     "physicalAttributes": {
-      "height": "5'11\"",
-      "weight": "195 lbs",
+      "height": { 
+        "feet": 5, 
+        "inches": 11
+      },
+      "weight": 191,
       "wingspan": "74 inches",
       "handSize": "9 inches"
     },
     "athleticTestingResults": {
-      "fortyYardDash": "4.45 seconds",
+      "dashTime": 4.7,
       "shuttleRun": "4.1 seconds",
       "lDrill": "6.9 seconds",
       "broadJump": "10'2”"
@@ -229,13 +238,16 @@
     "state": "USA",
     "zipCode": "77001",
     "physicalAttributes": {
-      "height": "6'1\"",
-      "weight": "190 lbs",
+      "height": { 
+        "feet": 6, 
+        "inches": 1 
+      },
+      "weight": 190,
       "wingspan": "77 inches",
       "handSize": "9.1 inches"
     },
     "athleticTestingResults": {
-      "fortyYardDash": "4.5 seconds",
+      "dashTime": 4.6,
       "shuttleRun": "4.2 seconds",
       "lDrill": "7.0 seconds",
       "broadJump": "9'10”"
@@ -287,13 +299,16 @@
     "state": "USA",
     "zipCode": "92707",
     "physicalAttributes": {
-      "height": "6'3\"",
-      "weight": "225 lbs",
+      "height": { 
+        "feet": 6, 
+        "inches": 3 
+      },
+      "weight": 225,
       "wingspan": "78 inches",
       "handSize": "9.75 inches"
     },
     "athleticTestingResults": {
-      "fortyYardDash": "4.65 seconds",
+      "dashTime": 4.5,
       "shuttleRun": "4.3 seconds",
       "lDrill": "7.2 seconds",
       "broadJump": "9'8”"
@@ -345,13 +360,16 @@
     "state": "USA",
     "zipCode": "94518",
     "physicalAttributes": {
-      "height": "6'4\"",
-      "weight": "235 lbs",
+      "height": { 
+        "feet": 6, 
+        "inches": 4
+      },
+      "weight": 235,
       "wingspan": "80 inches",
       "handSize": "10 inches"
     },
     "athleticTestingResults": {
-      "fortyYardDash": "4.75 seconds",
+      "dashTime": 4.55,
       "shuttleRun": "4.4 seconds",
       "lDrill": "7.3 seconds",
       "broadJump": "9'9”"
@@ -403,13 +421,16 @@
     "state": "USA",
     "zipCode": "89148",
     "physicalAttributes": {
-      "height": "6'0\"",
-      "weight": "185 lbs",
+      "height": { 
+        "feet": 6, 
+        "inches": 0 
+      },
+      "weight": 185,
       "wingspan": "74 inches",
       "handSize": "9 inches"
     },
     "athleticTestingResults": {
-      "fortyYardDash": "4.48 seconds",
+      "dashTime": 4.4,
       "shuttleRun": "4.18 seconds",
       "lDrill": "6.95 seconds",
       "broadJump": "10'1”"
@@ -461,13 +482,16 @@
     "state": "USA",
     "zipCode": "34210",
     "physicalAttributes": {
-      "height": "6'5\"",
-      "weight": "295 lbs",
+      "height": { 
+        "feet": 6, 
+        "inches": 5
+      },
+      "weight": 295,
       "wingspan": "82 inches",
       "handSize": "10.25 inches"
     },
     "athleticTestingResults": {
-      "fortyYardDash": "5.2 seconds",
+      "dashTime": 4.3,
       "shuttleRun": "4.9 seconds",
       "lDrill": "7.9 seconds",
       "broadJump": "8'5”"
@@ -519,13 +543,16 @@
     "state": "USA",
     "zipCode": "75002",
     "physicalAttributes": {
-      "height": "6'4\"",
-      "weight": "280 lbs",
+      "height": { 
+        "feet": 6, 
+        "inches": 4
+      },
+      "weight": 284,
       "wingspan": "81 inches",
       "handSize": "10 inches"
     },
     "athleticTestingResults": {
-      "fortyYardDash": "4.95 seconds",
+      "dashTime": 4.2,
       "shuttleRun": "4.6 seconds",
       "lDrill": "7.6 seconds",
       "broadJump": "9'0”"
@@ -577,13 +604,16 @@
     "state": "USA",
     "zipCode": "90706",
     "physicalAttributes": {
-      "height": "6'4\"",
-      "weight": "280 lbs",
+      "height": { 
+        "feet": 6, 
+        "inches": 4 
+      },
+      "weight": 284,
       "wingspan": "81 inches",
       "handSize": "10 inches"
     },
     "athleticTestingResults": {
-      "fortyYardDash": "4.95 seconds",
+      "dashTime": 4.10,
       "shuttleRun": "4.6 seconds",
       "lDrill": "7.6 seconds",
       "broadJump": "9'0”"
