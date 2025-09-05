@@ -2,8 +2,8 @@
   "navigationItems": [
     { "label": "Player Profiles", "href": "/players" },
     { "label": "Coaching Staff", "href": "/coach" },
-    { "label": "Schedule", "href": "/coach" },
-    { "label": "Need Help?", "href": "/coach" }
+    { "label": "Schedule", "href": "/schedule" },
+    { "label": "Need Help?", "href": "/help" }
   ],
   "promotionalCardsData": [
     {
@@ -32,9 +32,9 @@
     }
   ],
   "footerLinks": [
-    { "label": "Customer Support", "href": "/players" },
-    { "label": "Terms & Conditions", "href": "/coach" },
-    { "label": "Privacy Policy", "href": "/coach" }
+    { "label": "Customer Support", "href": "/support" },
+    { "label": "Terms & Conditions", "href": "/terms" },
+    { "label": "Privacy Policy", "href": "/privacy" }
   ],
   "players": [
   {
@@ -653,7 +653,7 @@
   }
 
   ],
-  "coaches": [
+  "coach": [
     {
       "id": 1,
       "slug": "steven-beard",
@@ -672,8 +672,8 @@
         "twitter": "https://x.com/",
         "facebook": "https://www.facebook.com/"
       },
-      "thumbnail": "/assets/images/coach/coach1.png",
-      "backgroundImage": "/assets/images/coach/coachBg.png",
+      "thumbnail": "",
+      "backgroundImage": "/assets/images/players/player1Bg.png",
       "coachBio": "My name is Marcus James, and I'm a senior at Central Valley High School where I play both wide receiver and cornerback. Football has been my passion since I was seven years old, and every time I step on the field, I play with heart, discipline, and a drive to be better than I was the day before..."
     },
     {
@@ -695,7 +695,7 @@
         "facebook": "https://www.facebook.com/"
       },
       "thumbnail": "/assets/images/coach/coach2.png",
-      "backgroundImage": "/assets/images/coach/coachBg.png",
+      "backgroundImage": "/assets/images/players/player1Bg.png",
       "coachBio": "Former offensive lineman turned coach, dedicated to developing strong fundamentals in blocking and pass protection."
     },
     {
@@ -717,7 +717,7 @@
         "facebook": "https://www.facebook.com/"
       },
       "thumbnail": "/assets/images/coach/coach3.png",
-      "backgroundImage": "/assets/images/coach/coachBg.png",
+      "backgroundImage": "/assets/images/players/player1Bg.png",
       "coachBio": "Passionate about teaching running backs balance, vision, and explosive footwork to excel at the next level."
     },
     {
@@ -739,7 +739,7 @@
         "facebook": "https://www.facebook.com/"
       },
       "thumbnail": "/assets/images/coach/coach4.jpg",
-      "backgroundImage": "/assets/images/coach/coachBg.png",
+      "backgroundImage": "/assets/images/players/player1Bg.png",
       "coachBio": "Wide receiver specialist, emphasizing crisp route running, timing, and contested catches."
     },
     {
@@ -761,7 +761,7 @@
         "facebook": "https://www.facebook.com/"
       },
       "thumbnail": "/assets/images/coach/coach5.jpg",
-      "backgroundImage": "/assets/images/coach/coachBg.png",
+      "backgroundImage": "/assets/images/players/player1Bg.png",
       "coachBio": "Defensive mastermind with a proven track record of building disciplined, high-intensity defenses."
     },
     {
@@ -783,7 +783,7 @@
         "facebook": "https://www.facebook.com/"
       },
       "thumbnail": "/assets/images/coach/coach6.jpg",
-      "backgroundImage": "/assets/images/coach/coachBg.png",
+      "backgroundImage": "/assets/images/players/player1Bg.png",
       "coachBio": "Dedicated to building versatile running backs with a combination of speed, agility, and vision."
     },
     {
@@ -805,7 +805,7 @@
         "facebook": "https://www.facebook.com/"
       },
       "thumbnail": "/assets/images/coach/coach7.jpg",
-      "backgroundImage": "/assets/images/coach/coachBg.png",
+      "backgroundImage": "/assets/images/players/player1Bg.png",
       "coachBio": "Defensive line coach known for developing strength, footwork, and relentless pursuit in the trenches."
     },
     {
@@ -827,7 +827,7 @@
         "facebook": "https://www.facebook.com/"
       },
       "thumbnail": "/assets/images/coach/coach8.jpg",
-      "backgroundImage": "/assets/images/coach/coachBg.png",
+      "backgroundImage": "/assets/images/players/player1Bg.png",
       "coachBio": "Linebacker specialist focused on tackling fundamentals, pursuit, and defensive leadership."
     },
     {
@@ -849,7 +849,7 @@
         "facebook": "https://www.facebook.com/"
       },
       "thumbnail": "/assets/images/coach/coach9.jpg",
-      "backgroundImage": "/assets/images/coach/coachBg.png",
+      "backgroundImage": "/assets/images/players/player1Bg.png",
       "coachBio": "Defensive backs coach with expertise in coverage techniques, ball skills, and defensive reads."
     },
     {
@@ -871,7 +871,7 @@
         "facebook": "https://www.facebook.com/"
       },
       "thumbnail": "/assets/images/coach/coach10.png",
-      "backgroundImage": "/assets/images/coach/coachBg.png",
+      "backgroundImage": "/assets/images/players/player1Bg.png",
       "coachBio": "Special teams coach who emphasizes discipline, situational awareness, and game-changing plays."
     }
   ]
