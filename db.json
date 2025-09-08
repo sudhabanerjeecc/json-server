@@ -50,6 +50,8 @@
     "coachName": "Lorep Ipsum",
     "state": "USA",
     "zipCode": "75116",
+    "primaryColor": "008000",
+    "secondaryColor": "0000FF",
     "physicalAttributes": {
       "height": { 
         "feet": 6, 
