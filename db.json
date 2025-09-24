@@ -1,45 +1,51 @@
 {
   "menu": {
     "headerNav": [
-      { "label": "Player Profiles", "href": "/players" },
-      { "label": "Coaching Staff", "href": "/coach" },
-      { "label": "Schedule", "href": "/schedule" },
-      { "label": "Need Help?", "href": "/help" }
+      {
+        "label": "Player Profiles",
+        "href": "/players"
+      },
+      {
+        "label": "Coaching Staff",
+        "href": "/coach"
+      },
+      {
+        "label": "Schedule",
+        "href": "/schedule"
+      },
+      {
+        "label": "Need Help?",
+        "href": "/help"
+      }
     ],
     "dashboardNav": [
-      { 
-        "label": "Users", 
-        "href": "/users" ,
+      {
+        "label": "Users",
+        "href": "/",
         "icons": "/assets/images/id-badge.png"
       },
-      { 
-        "label": "Organizations", 
-        "href": "/organizations",
+      {
+        "label": "Organizations",
+        "href": "/",
         "icons": "/assets/images/agenda.png"
       },
-      { 
-        "label": "Calendars", 
-        "href": "/calander",
-        "icons": "/assets/images/calendar.png"
-      },
-      { 
-        "label": "Messages", 
-        "href": "/messages",
-        "icons": "/assets/images/comment-alt.png"
-      },
-      { 
-        "label": "Import Schools", 
+      {
+        "label": "Import Schools",
         "href": "/import-schools",
         "icons": "/assets/images/import.png"
       }
     ],
     "footerNav": [
-      { "label": "Customer Support", "href": "/support" },
-      { "label": "Terms & Conditions", "href": "https://signingdaysports.com/terms-of-service/" },
-      { "label": "Privacy Policy", "href": "https://signingdaysports.com/privacy-policy/" }
+      {
+        "label": "Terms & Conditions",
+        "href": "https://signingdaysports.com/terms-of-service/"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "https://signingdaysports.com/privacy-policy/"
+      }
     ]
   },
-
   "school": {
     "promotionalCardsData": [
       {
@@ -68,626 +74,624 @@
       }
     ]
   },
-  
   "organisation": {
     "players": [
-    {
-      "id": 1,
-      "firstName": "Jaaziel",
-      "lastName": "Dominguez",
-      "slug": "jaaziel-dominguez",
-      "playersClass": 2025,
-      "primaryPosition": "DB",
-      "secondaryPosition": "MLB",
-      "highSchool": "Duncanville High School",
-      "city": "Duncanville",
-      "coachName": "Lorep Ipsum",
-      "state": "USA",
-      "zipCode": "75116",
-      "primaryColor": "",
-      "secondaryColor": "191919",
-      "physicalAttributes": {
-        "height": { 
-          "feet": 6, 
-          "inches": 0 
+      {
+        "id": 1,
+        "firstName": "Jaaziel",
+        "lastName": "Dominguez",
+        "slug": "jaaziel-dominguez",
+        "playersClass": 2025,
+        "primaryPosition": "DB",
+        "secondaryPosition": "MLB",
+        "highSchool": "Duncanville High School",
+        "city": "Duncanville",
+        "coachName": "Lorep Ipsum",
+        "state": "USA",
+        "zipCode": "75116",
+        "primaryColor": "",
+        "secondaryColor": "191919",
+        "physicalAttributes": {
+          "height": {
+            "feet": 6,
+            "inches": 0
+          },
+          "weight": 205,
+          "wingspan": "75 inches (6'3”)",
+          "handSize": "9.25 inches"
         },
-        "weight": 205,
-        "wingspan": "75 inches (6'3”)",
-        "handSize": "9.25 inches"
-      },
-      "athleticTestingResults": {
-        "dashTime": 4.9,
-        "shuttleRun": "4.15 seconds",
-        "lDrill": "6.98 seconds",
-        "broadJump": "9'11”",
-        "description": {
-          "lDrill": "Demonstrates elite agility and fluid change of direction. Marcus shows a smooth plant-and-drive with excellent body control around the cones.",
-          "broadJump": "Explosive lower-body strength and hip power. Clean, controlled landing with minimal balance loss."
-        }
-      },
-      "positionSpecificDrills": [
-        {
-          "drill": "Route Tree Execution",
-          "description": "Full route tree showcase including slant, curl, post, corner, and go routes. Demonstrates precise footwork, burst off the line, and clean breaks."
+        "athleticTestingResults": {
+          "dashTime": 4.9,
+          "shuttleRun": "4.15 seconds",
+          "lDrill": "6.98 seconds",
+          "broadJump": "9'11”",
+          "description": {
+            "lDrill": "Demonstrates elite agility and fluid change of direction. Marcus shows a smooth plant-and-drive with excellent body control around the cones.",
+            "broadJump": "Explosive lower-body strength and hip power. Clean, controlled landing with minimal balance loss."
+          }
         },
-        {
-          "drill": "Sideline Catch & Toe-Tap Control",
-          "description": "Full route tree showcase including slant, curl, post, corner, and go routes. Demonstrates precise footwork, burst off the line, and clean breaks."
-        }
-      ],
-      "academicInformation": {
-        "actScore": "Vaughn Overton",
-        "satScore": "Vaughn Overton",
-        "gpa": "Vaughn Overton",
-        "desiredMajor": "Vaughn Overton"
-      },
-      "contactInformation": {
-        "email": "jnegr@bosco.org",
-        "phone": "562.920.1734 x286",
-        "coachEmail": "jnegr@bosco.org",
-        "coachPhone": "562.920.1734 x286",
-        "socialMedia": {
-          "instagram": "https://www.instagram.com/",
-          "twitter": "https://x.com/",
-          "facebook": "https://www.facebook.com/"
-        }
-      },
-      "thumbnail": "/assets/images/players/player1.jpg",
-      "backgroundImage": "/assets/images/players/player1Bg.png",
-      "jerseyNumber": 22,
-      "offers": "San Diego state, Syracuse, Georgia Tech",
-      "playerBio": "My name is Marcus James, and I'm a senior..."
-    },
-    {
-      "id": 2,
-      "firstName": "Elijah",
-      "lastName": "Carter",
-      "slug": "elijah-carter",
-      "playersClass": 2024,
-      "primaryPosition": "QB",
-      "secondaryPosition": "WR",
-      "highSchool": "Central Valley High",
-      "city": "Fresno",
-      "coachName": "Daniel Smith",
-      "state": "USA",
-      "zipCode": "93720",
-      "physicalAttributes": {
-        "height": { 
-          "feet": 6, 
-          "inches": 2 
+        "positionSpecificDrills": [
+          {
+            "drill": "Route Tree Execution",
+            "description": "Full route tree showcase including slant, curl, post, corner, and go routes. Demonstrates precise footwork, burst off the line, and clean breaks."
+          },
+          {
+            "drill": "Sideline Catch & Toe-Tap Control",
+            "description": "Full route tree showcase including slant, curl, post, corner, and go routes. Demonstrates precise footwork, burst off the line, and clean breaks."
+          }
+        ],
+        "academicInformation": {
+          "actScore": "Vaughn Overton",
+          "satScore": "Vaughn Overton",
+          "gpa": "Vaughn Overton",
+          "desiredMajor": "Vaughn Overton"
         },
-        "weight": 205,
-        "wingspan": "76 inches",
-        "handSize": "9.5 inches"
-      },
-      "athleticTestingResults": {
-        "dashTime": 4.8,
-        "shuttleRun": "4.2 seconds",
-        "lDrill": "7.1 seconds",
-        "broadJump": "10'0”"
-      },
-      "positionSpecificDrills": [
-        {
-          "drill": "Passing Accuracy",
-          "description": "Demonstrates precision passing on slants, fades, and deep posts."
+        "contactInformation": {
+          "email": "jnegr@bosco.org",
+          "phone": "562.920.1734 x286",
+          "coachEmail": "jnegr@bosco.org",
+          "coachPhone": "562.920.1734 x286",
+          "socialMedia": {
+            "instagram": "https://www.instagram.com/",
+            "twitter": "https://x.com/",
+            "facebook": "https://www.facebook.com/"
+          }
         },
-        {
-          "drill": "Pocket Presence",
-          "description": "Maintains composure under pressure with strong footwork in the pocket."
-        }
-      ],
-      "academicInformation": {
-        "actScore": "24",
-        "satScore": "1180",
-        "gpa": "3.6",
-        "desiredMajor": "Sports Science"
+        "thumbnail": "/assets/images/players/player1.jpg",
+        "backgroundImage": "/assets/images/players/player1Bg.png",
+        "jerseyNumber": 22,
+        "offers": "San Diego state, Syracuse, Georgia Tech",
+        "playerBio": "My name is Marcus James, and I'm a senior..."
       },
-      "contactInformation": {
-        "email": "ecarter@example.com",
-        "phone": "559.555.1234",
-        "coachEmail": "coach.smith@example.com",
-        "coachPhone": "559.555.4321",
-        "socialMedia": {
-          "instagram": "https://www.instagram.com/",
-          "twitter": "https://x.com/",
-          "facebook": "https://www.facebook.com/"
-        }
-      },
-      "thumbnail": "/assets/images/players/player2.jpg",
-      "backgroundImage": "/assets/images/players/player1Bg.png",
-      "jerseyNumber": 21,
-      "offers": "Tennessee Tech, Illinois State",
-      "playerBio": "As a quarterback, I excel at reading defenses..."
-    },
-    {
-      "id": 3,
-      "firstName": "Michael",
-      "lastName": "Johnson",
-      "slug": "michael-johnson",
-      "playersClass": 2025,
-      "primaryPosition": "RB",
-      "secondaryPosition": "WR",
-      "highSchool": "Westlake High",
-      "city": "Austin",
-      "coachName": "Tom Bradley",
-      "state": "USA",
-      "zipCode": "73301",
-      "physicalAttributes": {
-        "height": { 
-          "feet": 5, 
-          "inches": 11
+      {
+        "id": 2,
+        "firstName": "Elijah",
+        "lastName": "Carter",
+        "slug": "elijah-carter",
+        "playersClass": 2024,
+        "primaryPosition": "QB",
+        "secondaryPosition": "WR",
+        "highSchool": "Central Valley High",
+        "city": "Fresno",
+        "coachName": "Daniel Smith",
+        "state": "USA",
+        "zipCode": "93720",
+        "physicalAttributes": {
+          "height": {
+            "feet": 6,
+            "inches": 2
+          },
+          "weight": 205,
+          "wingspan": "76 inches",
+          "handSize": "9.5 inches"
         },
-        "weight": 191,
-        "wingspan": "74 inches",
-        "handSize": "9 inches"
-      },
-      "athleticTestingResults": {
-        "dashTime": 4.7,
-        "shuttleRun": "4.1 seconds",
-        "lDrill": "6.9 seconds",
-        "broadJump": "10'2”"
-      },
-      "positionSpecificDrills": [
-        {
-          "drill": "Explosive Runs",
-          "description": "Quick burst through the hole with excellent field vision."
+        "athleticTestingResults": {
+          "dashTime": 4.8,
+          "shuttleRun": "4.2 seconds",
+          "lDrill": "7.1 seconds",
+          "broadJump": "10'0”"
         },
-        {
-          "drill": "Receiving Routes",
-          "description": "Demonstrates hands and route running from the backfield."
-        }
-      ],
-      "academicInformation": {
-        "actScore": "25",
-        "satScore": "1210",
-        "gpa": "3.7",
-        "desiredMajor": "Business"
-      },
-      "contactInformation": {
-        "email": "mjohnson@example.com",
-        "phone": "512.555.7890",
-        "coachEmail": "coach.bradley@example.com",
-        "coachPhone": "512.555.0987",
-        "socialMedia": {
-          "instagram": "https://www.instagram.com/",
-          "twitter": "https://x.com/",
-          "facebook": "https://www.facebook.com/"
-        }
-      },
-      "thumbnail": "/assets/images/players/player3.jpg",
-      "backgroundImage": "/assets/images/players/player1Bg.png",
-      "jerseyNumber": 27,
-      "offers": "Stephen F. Austin, Northern Arizona",
-      "playerBio": "Running back with excellent acceleration..."
-    },
-    {
-      "id": 4,
-      "firstName": "Daniel",
-      "lastName": "Smith",
-      "slug": "daniel-smith",
-      "playersClass": 2023,
-      "primaryPosition": "WR",
-      "secondaryPosition": "DB",
-      "highSchool": "North Shore High",
-      "city": "Houston",
-      "coachName": "Eric Johnson",
-      "state": "USA",
-      "zipCode": "77001",
-      "physicalAttributes": {
-        "height": { 
-          "feet": 6, 
-          "inches": 1 
+        "positionSpecificDrills": [
+          {
+            "drill": "Passing Accuracy",
+            "description": "Demonstrates precision passing on slants, fades, and deep posts."
+          },
+          {
+            "drill": "Pocket Presence",
+            "description": "Maintains composure under pressure with strong footwork in the pocket."
+          }
+        ],
+        "academicInformation": {
+          "actScore": "24",
+          "satScore": "1180",
+          "gpa": "3.6",
+          "desiredMajor": "Sports Science"
         },
-        "weight": 190,
-        "wingspan": "77 inches",
-        "handSize": "9.1 inches"
-      },
-      "athleticTestingResults": {
-        "dashTime": 4.6,
-        "shuttleRun": "4.2 seconds",
-        "lDrill": "7.0 seconds",
-        "broadJump": "9'10”"
-      },
-      "positionSpecificDrills": [
-        {
-          "drill": "Route Precision",
-          "description": "Crisp breaks with explosive acceleration off the line."
+        "contactInformation": {
+          "email": "ecarter@example.com",
+          "phone": "559.555.1234",
+          "coachEmail": "coach.smith@example.com",
+          "coachPhone": "559.555.4321",
+          "socialMedia": {
+            "instagram": "https://www.instagram.com/",
+            "twitter": "https://x.com/",
+            "facebook": "https://www.facebook.com/"
+          }
         },
-        {
-          "drill": "Contested Catches",
-          "description": "High-pointing the football against defensive backs."
-        }
-      ],
-      "academicInformation": {
-        "actScore": "27",
-        "satScore": "1290",
-        "gpa": "3.9",
-        "desiredMajor": "Engineering"
+        "thumbnail": "/assets/images/players/player2.jpg",
+        "backgroundImage": "/assets/images/players/player1Bg.png",
+        "jerseyNumber": 21,
+        "offers": "Tennessee Tech, Illinois State",
+        "playerBio": "As a quarterback, I excel at reading defenses..."
       },
-      "contactInformation": {
-        "email": "dsmith@example.com",
-        "phone": "713.555.4567",
-        "coachEmail": "ejohnson@example.com",
-        "coachPhone": "713.555.6789",
-        "socialMedia": {
-          "instagram": "https://www.instagram.com/",
-          "twitter": "https://x.com/",
-          "facebook": "https://www.facebook.com/"
-        }
-      },
-      "thumbnail": "/assets/images/players/player4.jpg",
-      "backgroundImage": "/assets/images/players/player1Bg.png",
-      "jerseyNumber": 35,
-      "offers": "Sacramento State, San Jose State, Northern Iowa",
-      "playerBio": "Wide receiver with excellent speed..."
-    },
-    {
-      "id": 5,
-      "firstName": "Aiden",
-      "lastName": "Lee",
-      "slug": "aiden-lee",
-      "playersClass": 2025,
-      "primaryPosition": "LB",
-      "secondaryPosition": "DE",
-      "highSchool": "Mater Dei High",
-      "city": "Santa Ana",
-      "coachName": "Bruce Rollinson",
-      "state": "USA",
-      "zipCode": "92707",
-      "physicalAttributes": {
-        "height": { 
-          "feet": 6, 
-          "inches": 3 
+      {
+        "id": 3,
+        "firstName": "Michael",
+        "lastName": "Johnson",
+        "slug": "michael-johnson",
+        "playersClass": 2025,
+        "primaryPosition": "RB",
+        "secondaryPosition": "WR",
+        "highSchool": "Westlake High",
+        "city": "Austin",
+        "coachName": "Tom Bradley",
+        "state": "USA",
+        "zipCode": "73301",
+        "physicalAttributes": {
+          "height": {
+            "feet": 5,
+            "inches": 11
+          },
+          "weight": 191,
+          "wingspan": "74 inches",
+          "handSize": "9 inches"
         },
-        "weight": 225,
-        "wingspan": "78 inches",
-        "handSize": "9.75 inches"
-      },
-      "athleticTestingResults": {
-        "dashTime": 4.5,
-        "shuttleRun": "4.3 seconds",
-        "lDrill": "7.2 seconds",
-        "broadJump": "9'8”"
-      },
-      "positionSpecificDrills": [
-        {
-          "drill": "Tackling Technique",
-          "description": "Wrap-up tackling and open field pursuit."
+        "athleticTestingResults": {
+          "dashTime": 4.7,
+          "shuttleRun": "4.1 seconds",
+          "lDrill": "6.9 seconds",
+          "broadJump": "10'2”"
         },
-        {
-          "drill": "Pass Rush Moves",
-          "description": "Spin, swim, and bull rush off the edge."
-        }
-      ],
-      "academicInformation": {
-        "actScore": "26",
-        "satScore": "1240",
-        "gpa": "3.8",
-        "desiredMajor": "Kinesiology"
-      },
-      "contactInformation": {
-        "email": "aidenlee@example.com",
-        "phone": "714.555.3344",
-        "coachEmail": "coach.rollinson@example.com",
-        "coachPhone": "714.555.4433",
-        "socialMedia": {
-          "instagram": "https://www.instagram.com/",
-          "twitter": "https://x.com/",
-          "facebook": "https://www.facebook.com/"
-        }
-      },
-      "thumbnail": "/assets/images/players/player5.jpg",
-      "backgroundImage": "/assets/images/players/player1Bg.png",
-      "jerseyNumber": 13,
-      "offers": "Tarleton State, Northern Arizona, Pittsburgh State ",
-      "playerBio": "Linebacker known for strength..."
-    },
-    {
-      "id": 6,
-      "firstName": "Christopher",
-      "lastName": "Brown",
-      "slug": "christopher-brown",
-      "playersClass": 2024,
-      "primaryPosition": "TE",
-      "secondaryPosition": "WR",
-      "highSchool": "De La Salle High",
-      "city": "Concord",
-      "coachName": "Justin Alumbaugh",
-      "state": "USA",
-      "zipCode": "94518",
-      "physicalAttributes": {
-        "height": { 
-          "feet": 6, 
-          "inches": 4
+        "positionSpecificDrills": [
+          {
+            "drill": "Explosive Runs",
+            "description": "Quick burst through the hole with excellent field vision."
+          },
+          {
+            "drill": "Receiving Routes",
+            "description": "Demonstrates hands and route running from the backfield."
+          }
+        ],
+        "academicInformation": {
+          "actScore": "25",
+          "satScore": "1210",
+          "gpa": "3.7",
+          "desiredMajor": "Business"
         },
-        "weight": 235,
-        "wingspan": "80 inches",
-        "handSize": "10 inches"
-      },
-      "athleticTestingResults": {
-        "dashTime": 4.55,
-        "shuttleRun": "4.4 seconds",
-        "lDrill": "7.3 seconds",
-        "broadJump": "9'9”"
-      },
-      "positionSpecificDrills": [
-        {
-          "drill": "Blocking Technique",
-          "description": "Shows ability to seal edges and open running lanes."
+        "contactInformation": {
+          "email": "mjohnson@example.com",
+          "phone": "512.555.7890",
+          "coachEmail": "coach.bradley@example.com",
+          "coachPhone": "512.555.0987",
+          "socialMedia": {
+            "instagram": "https://www.instagram.com/",
+            "twitter": "https://x.com/",
+            "facebook": "https://www.facebook.com/"
+          }
         },
-        {
-          "drill": "Seam Routes",
-          "description": "Tall target with strong hands and leaping ability."
-        }
-      ],
-      "academicInformation": {
-        "actScore": "28",
-        "satScore": "1320",
-        "gpa": "4.0",
-        "desiredMajor": "Computer Science"
+        "thumbnail": "/assets/images/players/player3.jpg",
+        "backgroundImage": "/assets/images/players/player1Bg.png",
+        "jerseyNumber": 27,
+        "offers": "Stephen F. Austin, Northern Arizona",
+        "playerBio": "Running back with excellent acceleration..."
       },
-      "contactInformation": {
-        "email": "cbrown@example.com",
-        "phone": "925.555.2233",
-        "coachEmail": "jalumbaugh@example.com",
-        "coachPhone": "925.555.3322",
-        "socialMedia": {
-          "instagram": "https://www.instagram.com/",
-          "twitter": "https://x.com/",
-          "facebook": "https://www.facebook.com/"
-        }
-      },
-      "thumbnail": "/assets/images/players/player6.jpg",
-      "backgroundImage": "/assets/images/players/player1Bg.png",
-      "jerseyNumber": 19,
-      "offers": "Oregon State, Arizona, Arizona State, Ucla",
-      "playerBio": "Tight end with great size and athleticism..."
-    },
-    {
-      "id": 7,
-      "firstName": "Ethan",
-      "lastName": "Walker",
-      "slug": "ethan-walker",
-      "playersClass": 2026,
-      "primaryPosition": "CB",
-      "secondaryPosition": "WR",
-      "highSchool": "Bishop Gorman",
-      "city": "Las Vegas",
-      "coachName": "Kenny Sanchez",
-      "state": "USA",
-      "zipCode": "89148",
-      "physicalAttributes": {
-        "height": { 
-          "feet": 6, 
-          "inches": 0 
+      {
+        "id": 4,
+        "firstName": "Daniel",
+        "lastName": "Smith",
+        "slug": "daniel-smith",
+        "playersClass": 2023,
+        "primaryPosition": "WR",
+        "secondaryPosition": "DB",
+        "highSchool": "North Shore High",
+        "city": "Houston",
+        "coachName": "Eric Johnson",
+        "state": "USA",
+        "zipCode": "77001",
+        "physicalAttributes": {
+          "height": {
+            "feet": 6,
+            "inches": 1
+          },
+          "weight": 190,
+          "wingspan": "77 inches",
+          "handSize": "9.1 inches"
         },
-        "weight": 185,
-        "wingspan": "74 inches",
-        "handSize": "9 inches"
-      },
-      "athleticTestingResults": {
-        "dashTime": 4.4,
-        "shuttleRun": "4.18 seconds",
-        "lDrill": "6.95 seconds",
-        "broadJump": "10'1”"
-      },
-      "positionSpecificDrills": [
-        {
-          "drill": "Backpedal & Break",
-          "description": "Smooth transitions from backpedal to break on the ball."
+        "athleticTestingResults": {
+          "dashTime": 4.6,
+          "shuttleRun": "4.2 seconds",
+          "lDrill": "7.0 seconds",
+          "broadJump": "9'10”"
         },
-        {
-          "drill": "Press Coverage",
-          "description": "Strong jam at the line with quick recovery speed."
-        }
-      ],
-      "academicInformation": {
-        "actScore": "27",
-        "satScore": "1270",
-        "gpa": "3.9",
-        "desiredMajor": "Economics"
-      },
-      "contactInformation": {
-        "email": "ewalker@example.com",
-        "phone": "702.555.7788",
-        "coachEmail": "ksanchez@example.com",
-        "coachPhone": "702.555.8877",
-        "socialMedia": {
-          "instagram": "https://www.instagram.com/",
-          "twitter": "https://x.com/",
-          "facebook": "https://www.facebook.com/"
-        }
-      },
-      "thumbnail": "",
-      "backgroundImage": "/assets/images/players/player1Bg.png",
-      "jerseyNumber": 25,
-      "offers": "San Diego state, Syracuse, Georgia Tech",
-      "playerBio": "Lockdown corner with speed, agility..."
-    },
-    {
-      "id": 8,
-      "firstName": "Logan",
-      "lastName": "Harris",
-      "slug": "logan-harris",
-      "playersClass": 2025,
-      "primaryPosition": "OL",
-      "secondaryPosition": "DL",
-      "highSchool": "IMG Academy",
-      "city": "Bradenton",
-      "coachName": "Bobby Acosta",
-      "state": "USA",
-      "zipCode": "34210",
-      "physicalAttributes": {
-        "height": { 
-          "feet": 6, 
-          "inches": 5
+        "positionSpecificDrills": [
+          {
+            "drill": "Route Precision",
+            "description": "Crisp breaks with explosive acceleration off the line."
+          },
+          {
+            "drill": "Contested Catches",
+            "description": "High-pointing the football against defensive backs."
+          }
+        ],
+        "academicInformation": {
+          "actScore": "27",
+          "satScore": "1290",
+          "gpa": "3.9",
+          "desiredMajor": "Engineering"
         },
-        "weight": 295,
-        "wingspan": "82 inches",
-        "handSize": "10.25 inches"
-      },
-      "athleticTestingResults": {
-        "dashTime": 4.3,
-        "shuttleRun": "4.9 seconds",
-        "lDrill": "7.9 seconds",
-        "broadJump": "8'5”"
-      },
-      "positionSpecificDrills": [
-        {
-          "drill": "Pass Protection",
-          "description": "Strong base and quick hands to protect the QB."
+        "contactInformation": {
+          "email": "dsmith@example.com",
+          "phone": "713.555.4567",
+          "coachEmail": "ejohnson@example.com",
+          "coachPhone": "713.555.6789",
+          "socialMedia": {
+            "instagram": "https://www.instagram.com/",
+            "twitter": "https://x.com/",
+            "facebook": "https://www.facebook.com/"
+          }
         },
-        {
-          "drill": "Run Blocking",
-          "description": "Drives defenders off the line with power."
-        }
-      ],
-      "academicInformation": {
-        "actScore": "23",
-        "satScore": "1150",
-        "gpa": "3.5",
-        "desiredMajor": "Sports Medicine"
+        "thumbnail": "/assets/images/players/player4.jpg",
+        "backgroundImage": "/assets/images/players/player1Bg.png",
+        "jerseyNumber": 35,
+        "offers": "Sacramento State, San Jose State, Northern Iowa",
+        "playerBio": "Wide receiver with excellent speed..."
       },
-      "contactInformation": {
-        "email": "lharris@example.com",
-        "phone": "941.555.6655",
-        "coachEmail": "bacosta@example.com",
-        "coachPhone": "941.555.5566",
-        "socialMedia": {
-          "instagram": "https://www.instagram.com/",
-          "twitter": "https://x.com/",
-          "facebook": "https://www.facebook.com/"
-        }
-      },
-      "thumbnail": "",
-      "backgroundImage": "/assets/images/players/player1Bg.png",
-      "jerseyNumber": 17,
-      "offers": "San Diego state, Syracuse, Georgia Tech",
-      "playerBio": "Dominant offensive lineman with strength..."
-    },
-    {
-      "id": 9,
-      "firstName": "Noah",
-      "lastName": "Wilson",
-      "slug": "noah-wilson",
-      "playersClass": 2024,
-      "primaryPosition": "DL",
-      "secondaryPosition": "OL",
-      "highSchool": "Allen High",
-      "city": "Allen",
-      "coachName": "Terry Gambill",
-      "state": "USA",
-      "zipCode": "75002",
-      "physicalAttributes": {
-        "height": { 
-          "feet": 6, 
-          "inches": 4
+      {
+        "id": 5,
+        "firstName": "Aiden",
+        "lastName": "Lee",
+        "slug": "aiden-lee",
+        "playersClass": 2025,
+        "primaryPosition": "LB",
+        "secondaryPosition": "DE",
+        "highSchool": "Mater Dei High",
+        "city": "Santa Ana",
+        "coachName": "Bruce Rollinson",
+        "state": "USA",
+        "zipCode": "92707",
+        "physicalAttributes": {
+          "height": {
+            "feet": 6,
+            "inches": 3
+          },
+          "weight": 225,
+          "wingspan": "78 inches",
+          "handSize": "9.75 inches"
         },
-        "weight": 284,
-        "wingspan": "81 inches",
-        "handSize": "10 inches"
-      },
-      "athleticTestingResults": {
-        "dashTime": 4.2,
-        "shuttleRun": "4.6 seconds",
-        "lDrill": "7.6 seconds",
-        "broadJump": "9'0”"
-      },
-      "positionSpecificDrills": [
-        {
-          "drill": "Zone Coverage",
-          "description": "Excellent range and awareness in deep coverage."
+        "athleticTestingResults": {
+          "dashTime": 4.5,
+          "shuttleRun": "4.3 seconds",
+          "lDrill": "7.2 seconds",
+          "broadJump": "9'8”"
         },
-        {
-          "drill": "Open Field Tackling",
-          "description": "Reliable tackler with great pursuit angles."
-        }
-      ],
-      "academicInformation": {
-        "actScore": "28",
-        "satScore": "1300",
-        "gpa": "3.85",
-        "desiredMajor": "Political Science"
+        "positionSpecificDrills": [
+          {
+            "drill": "Tackling Technique",
+            "description": "Wrap-up tackling and open field pursuit."
+          },
+          {
+            "drill": "Pass Rush Moves",
+            "description": "Spin, swim, and bull rush off the edge."
+          }
+        ],
+        "academicInformation": {
+          "actScore": "26",
+          "satScore": "1240",
+          "gpa": "3.8",
+          "desiredMajor": "Kinesiology"
+        },
+        "contactInformation": {
+          "email": "aidenlee@example.com",
+          "phone": "714.555.3344",
+          "coachEmail": "coach.rollinson@example.com",
+          "coachPhone": "714.555.4433",
+          "socialMedia": {
+            "instagram": "https://www.instagram.com/",
+            "twitter": "https://x.com/",
+            "facebook": "https://www.facebook.com/"
+          }
+        },
+        "thumbnail": "/assets/images/players/player5.jpg",
+        "backgroundImage": "/assets/images/players/player1Bg.png",
+        "jerseyNumber": 13,
+        "offers": "Tarleton State, Northern Arizona, Pittsburgh State ",
+        "playerBio": "Linebacker known for strength..."
       },
-      "contactInformation": {
-        "email": "jmartinez@example.com",
-        "phone": "562.555.4433",
-        "coachEmail": "jnegr@example.com",
-        "coachPhone": "562.555.5544",
-        "socialMedia": {
-          "instagram": "https://www.instagram.com/",
-          "twitter": "https://x.com/",
-          "facebook": "https://www.facebook.com/"
-        }
+      {
+        "id": 6,
+        "firstName": "Christopher",
+        "lastName": "Brown",
+        "slug": "christopher-brown",
+        "playersClass": 2024,
+        "primaryPosition": "TE",
+        "secondaryPosition": "WR",
+        "highSchool": "De La Salle High",
+        "city": "Concord",
+        "coachName": "Justin Alumbaugh",
+        "state": "USA",
+        "zipCode": "94518",
+        "physicalAttributes": {
+          "height": {
+            "feet": 6,
+            "inches": 4
+          },
+          "weight": 235,
+          "wingspan": "80 inches",
+          "handSize": "10 inches"
+        },
+        "athleticTestingResults": {
+          "dashTime": 4.55,
+          "shuttleRun": "4.4 seconds",
+          "lDrill": "7.3 seconds",
+          "broadJump": "9'9”"
+        },
+        "positionSpecificDrills": [
+          {
+            "drill": "Blocking Technique",
+            "description": "Shows ability to seal edges and open running lanes."
+          },
+          {
+            "drill": "Seam Routes",
+            "description": "Tall target with strong hands and leaping ability."
+          }
+        ],
+        "academicInformation": {
+          "actScore": "28",
+          "satScore": "1320",
+          "gpa": "4.0",
+          "desiredMajor": "Computer Science"
+        },
+        "contactInformation": {
+          "email": "cbrown@example.com",
+          "phone": "925.555.2233",
+          "coachEmail": "jalumbaugh@example.com",
+          "coachPhone": "925.555.3322",
+          "socialMedia": {
+            "instagram": "https://www.instagram.com/",
+            "twitter": "https://x.com/",
+            "facebook": "https://www.facebook.com/"
+          }
+        },
+        "thumbnail": "/assets/images/players/player6.jpg",
+        "backgroundImage": "/assets/images/players/player1Bg.png",
+        "jerseyNumber": 19,
+        "offers": "Oregon State, Arizona, Arizona State, Ucla",
+        "playerBio": "Tight end with great size and athleticism..."
       },
-      "thumbnail": "",
-      "backgroundImage": "/assets/images/players/player1Bg.png",
+      {
+        "id": 7,
+        "firstName": "Ethan",
+        "lastName": "Walker",
+        "slug": "ethan-walker",
+        "playersClass": 2026,
+        "primaryPosition": "CB",
+        "secondaryPosition": "WR",
+        "highSchool": "Bishop Gorman",
+        "city": "Las Vegas",
+        "coachName": "Kenny Sanchez",
+        "state": "USA",
+        "zipCode": "89148",
+        "physicalAttributes": {
+          "height": {
+            "feet": 6,
+            "inches": 0
+          },
+          "weight": 185,
+          "wingspan": "74 inches",
+          "handSize": "9 inches"
+        },
+        "athleticTestingResults": {
+          "dashTime": 4.4,
+          "shuttleRun": "4.18 seconds",
+          "lDrill": "6.95 seconds",
+          "broadJump": "10'1”"
+        },
+        "positionSpecificDrills": [
+          {
+            "drill": "Backpedal & Break",
+            "description": "Smooth transitions from backpedal to break on the ball."
+          },
+          {
+            "drill": "Press Coverage",
+            "description": "Strong jam at the line with quick recovery speed."
+          }
+        ],
+        "academicInformation": {
+          "actScore": "27",
+          "satScore": "1270",
+          "gpa": "3.9",
+          "desiredMajor": "Economics"
+        },
+        "contactInformation": {
+          "email": "ewalker@example.com",
+          "phone": "702.555.7788",
+          "coachEmail": "ksanchez@example.com",
+          "coachPhone": "702.555.8877",
+          "socialMedia": {
+            "instagram": "https://www.instagram.com/",
+            "twitter": "https://x.com/",
+            "facebook": "https://www.facebook.com/"
+          }
+        },
+        "thumbnail": "",
+        "backgroundImage": "/assets/images/players/player1Bg.png",
+        "jerseyNumber": 25,
+        "offers": "San Diego state, Syracuse, Georgia Tech",
+        "playerBio": "Lockdown corner with speed, agility..."
+      },
+      {
+        "id": 8,
+        "firstName": "Logan",
+        "lastName": "Harris",
+        "slug": "logan-harris",
+        "playersClass": 2025,
+        "primaryPosition": "OL",
+        "secondaryPosition": "DL",
+        "highSchool": "IMG Academy",
+        "city": "Bradenton",
+        "coachName": "Bobby Acosta",
+        "state": "USA",
+        "zipCode": "34210",
+        "physicalAttributes": {
+          "height": {
+            "feet": 6,
+            "inches": 5
+          },
+          "weight": 295,
+          "wingspan": "82 inches",
+          "handSize": "10.25 inches"
+        },
+        "athleticTestingResults": {
+          "dashTime": 4.3,
+          "shuttleRun": "4.9 seconds",
+          "lDrill": "7.9 seconds",
+          "broadJump": "8'5”"
+        },
+        "positionSpecificDrills": [
+          {
+            "drill": "Pass Protection",
+            "description": "Strong base and quick hands to protect the QB."
+          },
+          {
+            "drill": "Run Blocking",
+            "description": "Drives defenders off the line with power."
+          }
+        ],
+        "academicInformation": {
+          "actScore": "23",
+          "satScore": "1150",
+          "gpa": "3.5",
+          "desiredMajor": "Sports Medicine"
+        },
+        "contactInformation": {
+          "email": "lharris@example.com",
+          "phone": "941.555.6655",
+          "coachEmail": "bacosta@example.com",
+          "coachPhone": "941.555.5566",
+          "socialMedia": {
+            "instagram": "https://www.instagram.com/",
+            "twitter": "https://x.com/",
+            "facebook": "https://www.facebook.com/"
+          }
+        },
+        "thumbnail": "",
+        "backgroundImage": "/assets/images/players/player1Bg.png",
+        "jerseyNumber": 17,
+        "offers": "San Diego state, Syracuse, Georgia Tech",
+        "playerBio": "Dominant offensive lineman with strength..."
+      },
+      {
+        "id": 9,
+        "firstName": "Noah",
+        "lastName": "Wilson",
+        "slug": "noah-wilson",
+        "playersClass": 2024,
+        "primaryPosition": "DL",
+        "secondaryPosition": "OL",
+        "highSchool": "Allen High",
+        "city": "Allen",
+        "coachName": "Terry Gambill",
+        "state": "USA",
+        "zipCode": "75002",
+        "physicalAttributes": {
+          "height": {
+            "feet": 6,
+            "inches": 4
+          },
+          "weight": 284,
+          "wingspan": "81 inches",
+          "handSize": "10 inches"
+        },
+        "athleticTestingResults": {
+          "dashTime": 4.2,
+          "shuttleRun": "4.6 seconds",
+          "lDrill": "7.6 seconds",
+          "broadJump": "9'0”"
+        },
+        "positionSpecificDrills": [
+          {
+            "drill": "Zone Coverage",
+            "description": "Excellent range and awareness in deep coverage."
+          },
+          {
+            "drill": "Open Field Tackling",
+            "description": "Reliable tackler with great pursuit angles."
+          }
+        ],
+        "academicInformation": {
+          "actScore": "28",
+          "satScore": "1300",
+          "gpa": "3.85",
+          "desiredMajor": "Political Science"
+        },
+        "contactInformation": {
+          "email": "jmartinez@example.com",
+          "phone": "562.555.4433",
+          "coachEmail": "jnegr@example.com",
+          "coachPhone": "562.555.5544",
+          "socialMedia": {
+            "instagram": "https://www.instagram.com/",
+            "twitter": "https://x.com/",
+            "facebook": "https://www.facebook.com/"
+          }
+        },
+        "thumbnail": "",
+        "backgroundImage": "/assets/images/players/player1Bg.png",
         "jerseyNumber": 12,
-      "offers": "San Diego state, Syracuse, Georgia Tech",
-      "playerBio": "Versatile safety with ability to play both in the box and deep coverage..."
-    },
-    {
-      "id": 10,
-      "firstName": "Jacob",
-      "lastName": "Martinez",
-      "slug": "jacob-martinez",
-      "playersClass": 2023,
-      "primaryPosition": "S",
-      "secondaryPosition": "LB",
-      "highSchool": "St. John Bosco",
-      "city": "Bellflower",
-      "coachName": "Jason Negro",
-      "state": "USA",
-      "zipCode": "90706",
-      "physicalAttributes": {
-        "height": { 
-          "feet": 6, 
-          "inches": 4 
+        "offers": "San Diego state, Syracuse, Georgia Tech",
+        "playerBio": "Versatile safety with ability to play both in the box and deep coverage..."
+      },
+      {
+        "id": 10,
+        "firstName": "Jacob",
+        "lastName": "Martinez",
+        "slug": "jacob-martinez",
+        "playersClass": 2023,
+        "primaryPosition": "S",
+        "secondaryPosition": "LB",
+        "highSchool": "St. John Bosco",
+        "city": "Bellflower",
+        "coachName": "Jason Negro",
+        "state": "USA",
+        "zipCode": "90706",
+        "physicalAttributes": {
+          "height": {
+            "feet": 6,
+            "inches": 4
+          },
+          "weight": 284,
+          "wingspan": "81 inches",
+          "handSize": "10 inches"
         },
-        "weight": 284,
-        "wingspan": "81 inches",
-        "handSize": "10 inches"
-      },
-      "athleticTestingResults": {
-        "dashTime": 4.10,
-        "shuttleRun": "4.6 seconds",
-        "lDrill": "7.6 seconds",
-        "broadJump": "9'0”"
-      },
-      "positionSpecificDrills": [
-        {
-          "drill": "Zone Coverage",
-          "description": "Excellent range and awareness in deep coverage."
+        "athleticTestingResults": {
+          "dashTime": 4.10,
+          "shuttleRun": "4.6 seconds",
+          "lDrill": "7.6 seconds",
+          "broadJump": "9'0”"
         },
-        {
-          "drill": "Open Field Tackling",
-          "description": "Reliable tackler with great pursuit angles."
-        }
-      ],
-      "academicInformation": {
-        "actScore": "28",
-        "satScore": "1300",
-        "gpa": "3.85",
-        "desiredMajor": "Political Science"
-      },
-      "contactInformation": {
-        "email": "jmartinez@example.com",
-        "phone": "562.555.4433",
-        "coachEmail": "jnegr@example.com",
-        "coachPhone": "562.555.5544",
-        "socialMedia": {
-          "instagram": "https://www.instagram.com/",
-          "twitter": "https://x.com/",
-          "facebook": "https://www.facebook.com/"
-        }
-      },
-      "thumbnail": "",
-      "backgroundImage": "/assets/images/players/player1Bg.png",
+        "positionSpecificDrills": [
+          {
+            "drill": "Zone Coverage",
+            "description": "Excellent range and awareness in deep coverage."
+          },
+          {
+            "drill": "Open Field Tackling",
+            "description": "Reliable tackler with great pursuit angles."
+          }
+        ],
+        "academicInformation": {
+          "actScore": "28",
+          "satScore": "1300",
+          "gpa": "3.85",
+          "desiredMajor": "Political Science"
+        },
+        "contactInformation": {
+          "email": "jmartinez@example.com",
+          "phone": "562.555.4433",
+          "coachEmail": "jnegr@example.com",
+          "coachPhone": "562.555.5544",
+          "socialMedia": {
+            "instagram": "https://www.instagram.com/",
+            "twitter": "https://x.com/",
+            "facebook": "https://www.facebook.com/"
+          }
+        },
+        "thumbnail": "",
+        "backgroundImage": "/assets/images/players/player1Bg.png",
         "jerseyNumber": 12,
-      "offers": "San Diego state, Syracuse, Georgia Tech",
-      "playerBio": "Versatile safety with ability to play both in the box and deep coverage..."
-    }
-
+        "offers": "San Diego state, Syracuse, Georgia Tech",
+        "playerBio": "Versatile safety with ability to play both in the box and deep coverage..."
+      }
     ],
     "coach": [
       {
